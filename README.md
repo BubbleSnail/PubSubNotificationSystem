@@ -1,6 +1,6 @@
 1. Clone the Repository
-  git clone https://github.com/BubbleSnail/PubSubNotificationSystem.git
-  cd PubSubNotificationSystem
+   git clone https://github.com/BubbleSnail/PubSubNotificationSystem.git
+   cd PubSubNotificationSystem
 2. Khởi tạo project
    dotnet build
 4. Build the Project
